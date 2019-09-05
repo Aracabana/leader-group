@@ -1769,6 +1769,10 @@ li.soc-item {
   text-decoration: none !important;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-transition: background-color ease 0.3s;
+  -moz-transition: background-color ease 0.3s;
+  -o-transition: background-color ease 0.3s;
+  transition: background-color ease 0.3s;
 }
 .service-card-sm {
   height: 50%;
