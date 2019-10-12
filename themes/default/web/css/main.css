@@ -1769,7 +1769,7 @@ li.soc-item {
   text-decoration: none !important;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0;
+  opacity: 1;
   -webkit-transition: opacity 0.2s linear;
   -o-transition: opacity 0.2s linear;
   transition: opacity 0.2s linear;
